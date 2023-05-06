@@ -42,7 +42,7 @@ You can browse all supported apps and stacks and see stats, config options and s
 
 1. Log into your Portainer web UI
 2. Under Settings --> App Templates, update the URL to
-    - `https://raw.githubusercontent.com/Lissy93/portainer-templates/main/templates.json`
+    - `https://raw.githubusercontent.com/baldefaf/PortainerLissy93/main/templates.json`
 3. Now under Home --> App Templates, you should see all apps. Click one to deploy.
 
 <details>
